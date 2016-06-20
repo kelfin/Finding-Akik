@@ -1,0 +1,26 @@
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Finding Akik\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Finding Akik\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Finding Akik\Temp\bin\Debug\UnityEditor.dll
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Finding Akik\Temp\bin\Debug\UnityEngine.dll
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Finding Akik\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Finding Akik\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Finding Akik\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Finding Akik\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Finding Akik\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Finding Akik\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Finding Akik\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Finding Akik\obj\Debug\Assembly-CSharp.dll
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Finding Akik\obj\Debug\Assembly-CSharp.pdb
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Temp\bin\Debug\UnityEditor.dll
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Temp\bin\Debug\UnityEngine.dll
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\obj\Debug\Assembly-CSharp.dll
+C:\Users\KelfinEkaPutra\Documents\Unity Project\Finding Akik\obj\Debug\Assembly-CSharp.pdb

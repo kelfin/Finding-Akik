@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 020e0c951000a5f43bce8675fad1689f
+timeCreated: 1434027871
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: utama_0
+    21300002: utama_1
+    21300004: utama_2
+    21300006: utama_3
+    21300008: utama_4
+    21300010: utama_5
+    21300012: utama_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: utama_1
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1376
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: utama_2
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1086
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: utama_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 29
+        width: 1604
+        height: 1976
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: utama_3
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1353
+        width: 285
+        height: 647
+      alignment: 9
+      pivot: {x: .499999136, y: .745176077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: utama_4
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 1382
+        width: 339
+        height: 623
+      alignment: 9
+      pivot: {x: .571989059, y: .728506029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: utama_5
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 203
+        width: 563
+        height: 642
+      alignment: 9
+      pivot: {x: .46387738, y: .842118621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: utama_6
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 122
+        width: 579
+        height: 719
+      alignment: 9
+      pivot: {x: .366526753, y: .856393337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

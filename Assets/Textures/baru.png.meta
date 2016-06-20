@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 403acc6210d781f42b9c37c74b325ae1
+timeCreated: 1435246770
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: baru_0
+    21300002: baru_1
+    21300004: baru_2
+    21300006: baru_3
+    21300008: baru_4
+    21300010: baru_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: baru_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1370
+        width: 528
+        height: 600
+      alignment: 9
+      pivot: {x: .176081806, y: .765613019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baru_1
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1370
+        width: 691
+        height: 666
+      alignment: 9
+      pivot: {x: .100610226, y: .143981755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baru_2
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 81
+        width: 1044
+        height: 1955
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baru_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 324
+        width: 530
+        height: 600
+      alignment: 9
+      pivot: {x: .191972092, y: .759134531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baru_4
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 777
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: baru_5
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 320
+        width: 769
+        height: 843
+      alignment: 9
+      pivot: {x: .120901994, y: .121903352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

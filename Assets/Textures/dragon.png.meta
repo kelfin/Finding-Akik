@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: e7a8aadde27ef0642b44e60d7c8a143d
+timeCreated: 1433431006
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dragon_0
+    21300002: dragon_1
+    21300004: dragon_2
+    21300006: dragon_3
+    21300008: dragon_4
+    21300010: dragon_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dragon_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1538
+        width: 957
+        height: 909
+      alignment: 9
+      pivot: {x: .862263381, y: .158061847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon_1
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1554
+        width: 1162
+        height: 905
+      alignment: 9
+      pivot: {x: .09362299, y: .123526387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon_2
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 1489
+        width: 730
+        height: 962
+      alignment: 9
+      pivot: {x: .164286241, y: .76096499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 382
+        width: 1145
+        height: 799
+      alignment: 9
+      pivot: {x: .714035869, y: .275569081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon_4
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 109
+        width: 1373
+        height: 1374
+      alignment: 9
+      pivot: {x: .613259375, y: .595068812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dragon_5
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 775
+        width: 268
+        height: 264
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
